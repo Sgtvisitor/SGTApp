@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "57311557501",
+    "project_id": "sgt-visitor-app",
+    "storage_bucket": "sgt-visitor-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57311557501:android:ec55ab1ec7b2eaa9f3fe14",
+        "android_client_info": {
+          "package_name": "SGT.Visitor.App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVwyqsaq-rWOMK8NQij99Kae0MouRSFVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57311557501:android:b30a96fe9c706e78f3fe14",
+        "android_client_info": {
+          "package_name": "com.example.my_cross_platform_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVwyqsaq-rWOMK8NQij99Kae0MouRSFVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
